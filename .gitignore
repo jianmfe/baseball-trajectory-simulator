@@ -1,0 +1,8 @@
+#Cache de Python
+
+__pycache__/
+*.pyc
+*.pyo
+
+#Config. local del editor
+.vscode/
